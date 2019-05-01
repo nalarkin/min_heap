@@ -1,3 +1,3 @@
-# autochess-assistant
+# min_heap
 
-This program does not work. I'm in the process of creating this program. Once it's complete I will make it usable by the public.
+This was my code that resulted from completing the introductory "heaps" section on code academy. 
